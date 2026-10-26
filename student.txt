@@ -1,3 +1,5 @@
 student system
 101, rahul, ai & ds, third year
 102, priya, computer engineering, second year
+103, amit, it, third year
+104, sneha, ai, second year
