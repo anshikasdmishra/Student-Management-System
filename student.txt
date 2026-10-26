@@ -1,0 +1,3 @@
+student system
+101, rahul, ai & ds, third year
+102, priya, computer engineering, second year
